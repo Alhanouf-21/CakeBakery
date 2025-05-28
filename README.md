@@ -1,2 +1,1 @@
 # CakeBakery
-This java project 
